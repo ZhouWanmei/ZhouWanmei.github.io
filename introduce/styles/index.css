@@ -1,0 +1,529 @@
+@charset "utf-8";
+* {
+    box-sizing: border-box;
+}
+html,body {
+    margin: 0;
+    font: 16px sans-serif;
+    background: #E8E8E8;
+}
+input,select,button,textarea {
+    font: inherit;
+    outline: none;
+}
+select,button,a {
+    cursor: pointer;
+}
+ul{
+	list-style: none;
+}
+
+
+.container{
+	width: 70%;
+	margin: 0 auto;
+}
+.clearfix:after{
+	content: " ";
+	display: block;
+	height: 0;
+	line-height: 0;
+	visibility: hidden;
+	clear: both;
+}
+.clearfix{
+	zoom:1;/*兼容IE浏览器写法*/
+}
+
+/* 头部 */
+header{
+	width: 100%;
+	height: 350px;
+	background: url(../image/header-bg.jpg) no-repeat center bottom / cover;
+    overflow: hidden;
+}
+header nav{
+	width: 100%;
+	height: 70px;
+	line-height: 70px;
+	font-size: 18px;
+	background: url(../image/nav-bg.jpg) no-repeat center center / cover;
+    position: fixed;
+    top: 0;
+    z-index: 3;
+}
+header span{
+	float: left;
+	color: #ffffff;
+}
+nav ul{
+	float: right;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+    display: flex;
+    margin: 0 auto;
+	
+}
+/* nav ul li{
+	float: left;
+    
+} */
+nav ul li a{
+	text-decoration: none;
+	color: #ffffff;
+	margin: 0 10px;
+}
+nav button{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border: none;
+    background: #000000;
+    color: #ffffff;
+    display: none;
+    float: right;
+}
+nav button:hover + .menu{
+    display: block;
+    position: absolute;
+    top:50px;
+    right: 0;
+}
+nav button:hover + .menu>li{
+    flex-direction: column;
+    height: 40px;
+    line-height: 40px;
+}
+nav button:hover + .menu>li>a{
+    display: inline-block;
+    width: 200px;
+    height: 100%;
+    padding-left: 20px;
+    background: rgba(113,113,113,0.8);
+}
+
+@media (max-width: 600px){
+    nav button{
+        display: block;
+        margin-top: 15px;
+    }
+    nav ul{
+        display: none;
+    }
+    
+}
+
+
+/* 头部——个人头像 */
+.head-pic{
+	margin-top: 85px;
+	text-align: center;
+}
+.head-pic img{
+	width: 200px;
+	height: 200px;
+	border: 1px solid #2D2822;
+	border-radius: 50%;
+}
+.head-pic p{
+	color: #ffffff;
+	font-size: 18px;
+}
+
+/* main部分 */
+main{
+	margin-top: 50px;
+}
+
+
+/* 个人信息 */
+.persional-info{
+	float: left;
+	width: 300px;
+	/* height: 400px; */
+	border: 1px solid #2D2822;
+}
+.info-top,.info-bottom{
+	width: 100%;
+	background: url(../image/nav-bg.jpg) no-repeat center center / cover;
+}
+.info-top{
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	color: #ffffff;
+	font-size: 22px;	
+}
+.info-bottom{
+	height: 30px;
+}
+.persional-info p{
+	margin: 16px 20px;
+	border-bottom: 1px dashed #2D2822;
+}
+.persional-experience{
+	float: left;
+	margin-left: 300px;
+}
+
+
+
+/* 教育工作经历时间轴 */
+.timezone{
+        width:6px;
+        height: 230px;
+        background: #2C2C2C;
+        margin: 0 auto;
+        margin-top:50px;
+        border-radius: 3px;
+        position: relative;
+        animation: heightSlide 2s linear;
+}
+@-webkit-keyframes heightSlide{
+        0%{
+            height: 0;
+        }
+        100%{
+            height: 230px;
+        }
+}
+.timezone:after{
+        content: '未完待续...';
+        width: 100px;
+        color:#000000;
+        position: absolute;
+        margin-left: -35px;
+        bottom: -30px;
+        animation: showIn 6s ease;
+}
+.timezone .timeRight,.timezone .timeLeft{
+        position: absolute;
+        margin-left: -7px;
+        margin-top:-10px;
+        width:20px;
+        height:20px;
+        border-radius: 50%;
+        border:4px solid rgba(255,255,255,0.5);
+        background: #2C2C2C;
+        transition: all 0.5s;
+        animation: showIn ease;
+}
+.timezone .timeRight:nth-child(1){
+        animation-duration:2s;
+ }
+.timezone .timeLeft:nth-child(2){
+        animation-duration:3s;
+}
+.timezone .timeRight:nth-child(3){
+        animation-duration:4s;
+}
+.timezone .timeLeft:nth-child(4){
+        animation-duration:5s;
+}
+@keyframes showIn{
+    0%,70%{
+             opacity: 0;
+        }
+    100%{
+             opacity: 1;
+        }
+}
+.timezone .timeRight h2,.timezone .timeLeft h2{
+        position: absolute;
+        margin-left: -150px;
+        margin-top: 3px;
+        color:#000000;
+        font-size: 14px;
+        cursor:pointer;
+        animation: showIn 3s ease;
+}
+.timezone .timeLeft h2{
+        margin-left: 40px;
+        width: 100px;
+}
+ .timezone .timeRight div,.timezone .timeLeft div{
+    position: absolute;
+    top:50%;
+    margin-top: -25px;
+    left:50px;
+    width: 300px;
+    background: #717171;
+    border:3px solid #969696;
+    border-radius: 10px;
+    z-index: 2;
+    overflow: hidden;
+    cursor:pointer;
+    animation: showIn 3s ease;
+    transition: all 0.5s;
+}
+.timezone .timeLeft div{
+    left:-337px;
+}
+.timezone .timeRight div p,.timezone .timeLeft div p{
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+}
+.timezone .timeRight:before,.timezone .timeLeft:before{
+    content: '';
+    position: absolute;
+    top:0px;
+    left: 32px;
+    width: 0px;
+    height: 0px;
+    border:10px solid transparent;
+    border-right:10px solid #969696;
+    z-index:1;
+    animation: showIn 3s ease;
+}
+.timezone .timeLeft:before{
+    left:-37px;
+    border:10px solid transparent;
+    border-left:10px solid #969696;
+}
+
+
+
+/* 个人技能部分 */
+.skills{
+	margin: 50px 0;
+}
+.skills-circle{
+	float: left;
+    position: relative;
+    color: #282520;
+}
+.skills-circle ul li{
+    display: inline-block;
+}
+
+
+/* 旋转技能——外圈 */
+.outCircle{
+	width: 242px;
+	height: 242px;
+	border: 4px dashed #2C2C2C;
+	border-radius: 50%;
+	font-size: 12px;	
+    position: relative;
+    margin-left: 100px;
+}
+.outCircle .out{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+    text-align: center;
+	line-height: 50px;
+    position: absolute;
+}
+.outCircle .out:nth-child(1){ 
+    background: rgba(121,100,102,0.8);
+    animation: outX 8s cubic-bezier(.36,0,.64,1) -4s infinite alternate,
+               outY 8s cubic-bezier(.36,0,.64,1) 0s infinite alternate;
+}
+.outCircle .out:nth-child(2){
+    background: rgba(49,65,82,0.8);
+    animation: outX 8s cubic-bezier(.36,0,.64,1) -6s infinite alternate,
+               outY 8s cubic-bezier(.36,0,.64,1) -2s infinite alternate;
+}
+.outCircle .out:nth-child(3){
+    background: rgba(76,157,160,0.8);
+    animation: outX 8s cubic-bezier(.36,0,.64,1) -8s infinite alternate,
+               outY 8s cubic-bezier(.36,0,.64,1) -4s infinite alternate;
+}
+.outCircle .out:nth-child(4){
+    background: rgba(66,66,66,0.8);
+    animation: outX 8s cubic-bezier(.36,0,.64,1) -10s infinite alternate,
+               outY 8s cubic-bezier(.36,0,.64,1) -6s infinite alternate;
+}
+.outCircle .out:nth-child(5){
+    background: rgba(193,131,106,0.8);
+    animation: outX 8s cubic-bezier(.36,0,.64,1) -12s infinite alternate,
+               outY 8s cubic-bezier(.36,0,.64,1) -8s infinite alternate;
+}
+.outCircle .out:nth-child(6){
+    background: rgba(117,148,179,0.8);
+    animation: outX 8s cubic-bezier(.36,0,.64,1) -14s infinite alternate,
+               outY 8s cubic-bezier(.36,0,.64,1) -10s infinite alternate;
+}
+.outCircle .out:nth-child(7){
+    background: rgba(71,83,94,0.8);
+    animation: outX 8s cubic-bezier(.36,0,.64,1) -16s infinite alternate,
+               outY 8s cubic-bezier(.36,0,.64,1) -12s infinite alternate;
+}
+.outCircle .out:nth-child(8){
+    background: rgba(147,147,189,0.8);
+    animation: outX 8s cubic-bezier(.36,0,.64,1) -18s infinite alternate,
+               outY 8s cubic-bezier(.36,0,.64,1) -14s infinite alternate;
+}
+@keyframes outX{
+	0%{
+		left: -27px;
+	}
+	100%{
+		left: 217px;
+	}
+}
+@keyframes outY{
+	0%{
+		top: -27px;
+	}
+	100%{
+		top: 217px;
+	}
+}
+
+
+
+/* 旋转技能——内圈 */
+.innerCircle{
+    width: 142px;
+    height: 142px;
+    border: 4px dashed #2C2C2C;
+    border-radius: 50%;
+    font-size: 12px;
+    position: absolute;
+    left: 65%;
+    top: 47%;
+    transform: translateX(-50%) translateY(-50%);
+}
+.innerCircle .inner{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    position: absolute;
+}
+.innerCircle .inner:nth-child(1){ 
+    background: rgba(179,164,140,0.8);
+    animation: innerX 8s cubic-bezier(.36,0,.64,1) -4s infinite alternate,
+               innerY 8s cubic-bezier(.36,0,.64,1) 0s infinite alternate;
+}
+.innerCircle .inner:nth-child(2){
+    background: rgba(171,209,220,0.8);
+    animation: innerX 8s cubic-bezier(.36,0,.64,1) -8s infinite alternate,
+               innerY 8s cubic-bezier(.36,0,.64,1) -4s infinite alternate;
+}
+.innerCircle .inner:nth-child(3){
+    background: rgba(238,215,163,0.8);
+    animation: innerX 8s cubic-bezier(.36,0,.64,1) -12s infinite alternate,
+               innerY 8s cubic-bezier(.36,0,.64,1) -8s infinite alternate;
+}
+.innerCircle .inner:nth-child(4){
+    background: rgba(207,184,178,0.8);
+    animation: innerX 8s cubic-bezier(.36,0,.64,1) -16s infinite alternate,
+               innerY 8s cubic-bezier(.36,0,.64,1) -12s infinite alternate;
+}
+@keyframes innerX{
+    0%{
+        left: -22px;
+    }
+    100%{
+        left: 122px;
+    }
+}
+@keyframes innerY{
+    0%{
+        top: -22px;
+    }
+    100%{
+        top: 122px;
+    }
+}
+
+
+/* 个人技能描述 */
+.skills-descripe{
+    float: right;
+    width: 50%;
+    background: #717171;
+    border:3px solid #969696;
+    border-radius: 10px;
+    margin: 50px 60px 0 0;
+    color: #ffffff;
+    position: relative;
+}
+.skills-descripe h2,.skills-descripe p{
+    padding: 0 20px;
+}
+.skills-descripe:before{
+    content: '';
+    position: absolute;
+    top:50%;
+    left: -23px;
+    width: 0px;
+    height: 0px;
+    border:10px solid transparent;
+    border-right:10px solid #969696;
+    z-index:1;
+}
+
+/* 作品展示部分 */
+.work-show{}
+.work-show h2{
+    font-size: 30px;
+    color: #1F1C17;
+    border-bottom: 4px solid #717171;
+    padding: 0 0 10px 20px;
+    margin: 0;
+}
+.work-exhibit{
+    display: flex;
+    margin: 0 auto;
+    padding: 0;
+}
+.work-exhibit li{
+    width: 33.33%;
+    margin: 30px 15px 30px 15px;
+    cursor: pointer;
+    position: relative;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+}
+.work-exhibit li:first-child{
+    margin-left: none;
+}
+.work-exhibit li img{
+    width: 100%;
+}
+.exhibit-descript{
+    width: 100%;
+    height: 100%;
+    line-height: 100%;
+    background: rgba(113,113,133,0.3);
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #F76F03;
+    font-size: 24px; 
+    text-align: center;
+    padding: 25% 0 25% 0;
+}
+.work-exhibit li:hover .exhibit-descript{
+    display: block;
+}
+ 
+@media (max-width: 600px){
+   .work-exhibit li{
+    width: 100%;
+} 
+}
+
+
+/* 底部——个人评价*/
+footer{
+    width: 100%;
+    height: 100px;
+    background: url(../image/nav-bg.jpg) no-repeat center bottom / cover;
+}
+
+footer span{
+    display: inline-block;
+    line-height: 100px;
+    color: #ffffff;
+}
+footer span:nth-child(1){
+    font-size: 18px;
+}
