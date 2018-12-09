@@ -1,0 +1,179 @@
+@charset 'utf-8';
+
+
+ 
+/* 内容 */
+.dietTitle{
+    font-weight: 400;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.diet-list{
+    width: 100%;
+    margin-bottom: 30px;
+}
+.diet-list li{
+    width: 180px;
+    height: 180px;
+    float: left;
+    margin-bottom: 10px;
+    position: relative;
+    overflow: hidden;
+}
+.diet-list li:not(:nth-child(5n)){
+    margin-right: 10px;
+}
+.diet-list li a{
+    display: inline-block;
+}
+.diet-list li img{
+    width: 180px;
+    height: 180px;
+}
+.diet-list .mask{
+    width: 180px;
+    height: 180px;
+    background: rgba(255, 255, 255, 0.8);
+    cursor: pointer;
+    position: absolute;
+    left: 0;
+    top: 180px;
+    opacity: 0;
+    transition: all .5s ease;
+    
+}
+.diet-list li:hover .mask{
+    opacity: 1;
+    top: 0;
+    
+}
+
+
+
+
+.mask .foodTitle{
+    text-align: center;
+    line-height: 20px;
+    margin: 68px 5px 8px 5px;
+    height: 20px;
+}
+.mask .cookPlace{
+    display: block;
+    width: 160px;
+    padding: 0 10px;
+    text-align: center;
+    color: #6b553f; 
+} 
+.mask .cookPlace i{
+    display: inline-block;
+    width: 16px;
+    height: 22px;
+    background: url(../images/common/bg_diet.png) no-repeat 0 -38px;
+    vertical-align: middle;
+    
+}
+.mask .like{
+    color: #999;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;  
+}
+.mask .like i{
+    display: inline-block;
+    width: 14px;
+    height: 13px;
+    background: url(../images/common/bg_diet.png) no-repeat right 0;
+}
+.mask .cook{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+
+/* 推荐餐厅 */
+.recommendRestaurant{
+    width: 100%;
+}
+.restaurant-list>li{
+    width: 584px;
+    padding: 16px 0 20px 16px;
+    margin-bottom: 30px;
+    background: #fff;
+    border: 1px solid #ecebea;
+    border-radius: 3px;
+}
+.restaurant-list .name{
+    font-size: 14px;
+}
+.restaurant-list>li>p{
+    margin: 10px 0;
+}
+.restaurant-list>li>p.perCost{
+    font-size: 14px;
+    color: #f00;
+}
+.restaurant-list>li>p>span{
+    color: #999;
+}
+
+.specialDishes{
+    width: 100%;
+}
+.specialDishes li{
+    float: left;
+    text-align: center;
+    position: relative;
+}
+.specialDishes li:not(:last-child){
+    margin-right: 10px;
+}
+.specialDishes li img{
+    display: block;
+    width: 136px;
+}
+.specialDishes li span.title{
+    display: block;
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    color: #333;
+    background: rgba(255, 255, 255, 0.8);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+
+/* 热门餐厅推荐 */
+.hotRestaurant-list{
+    width: 100%;
+}
+.hotRestaurant-list li{
+    margin-bottom: 20px;
+    float: left;
+}
+.hotRestaurant-list li:not(:nth-child(2n)){
+    margin-right: 12px;
+}
+.hotRestaurant-list li a{
+    display: inline-block;
+}
+.hotRestaurant-list li a img{
+    width: 144px;
+    height: 125px;
+}
+.hotRestaurant-list li .des{
+    line-height: 34px;
+}
+.des .name{
+    width: 90px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    float: left;
+}
+.des .like{
+    color: #999;
+    float: right;
+}

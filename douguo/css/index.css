@@ -1,0 +1,441 @@
+@charset "utf-8";
+
+
+
+
+
+/** 内容 **/
+/* 图片轮播 */
+
+.scroll-flash{
+    position: relative;
+    width: 940px;
+    height: 250px;
+    overflow: hidden;
+}
+.img-box{
+    width: calc(7 * 700px);
+    font-size: 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 0;
+    padding-left: 120px;
+}
+.img-box img {
+    width: calc(100% / 7);
+}
+
+
+.btn-box .btn{
+    width: 120px;
+    height: 220px;
+    line-height: 220px;
+    background: rgba(0, 0, 0, 0.5);
+    display: block;
+    cursor: pointer;
+    position: absolute;
+    top: 44%;
+    transform: translateY(-50%);
+    text-align: center;
+}
+.btn-box .prev{
+    left: 0;
+}
+.btn-box .next{
+    right: 0;
+}
+.btn-box i{
+    font-size: 80px;
+    vertical-align: middle;
+    color: #C1BEBB;
+}
+.idot-box {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 230px;
+}
+.idot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #C6C6C6;
+    margin-right: 8px;
+    cursor: pointer;
+    transition: all .25s linear;
+}
+.idot:hover {
+    background: #6FBFB1;
+}
+.idot.selected {
+    background: #6FBFB1;
+}
+
+.marginBottom{
+    margin-bottom: 20px;
+}
+
+
+/* 每日编辑推荐 */
+.everydayRecommend{
+    color: #12937C;
+}
+.everydayRecommend h2{ 
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.recommend-list{
+    width: 100%;
+    font-size: 14px;
+}
+
+.recommend-list li{
+    float: left;
+    margin-bottom: 20px;
+    position: relative;
+}
+.recommend-list li:not(:nth-child(4n)){
+    margin-right: 20px;
+}
+.recommend-list li a img{
+    width: 220px;
+}
+
+.recommend-list li p{
+    margin: 5px 0;
+}
+
+
+
+
+/* 时令食材 */
+.foods-list{
+    background: #f4f0ec;
+    padding: 20px 0 0 30px;
+}
+.foods-list li{
+    float: left;
+    width: 60px;
+    height: 90px;
+    text-align: center;
+    line-height: 18px;
+    overflow: hidden;
+    margin: 0 20px 11px 0;
+}
+
+.foods-list li a img{
+    width: 60px;
+    height: 60px;
+    margin-bottom: 5px;
+    display: block;
+}
+
+
+/* 精彩主题文章 */
+.hot-img{
+    display: block;
+    height: 110px;
+    width: 140px;
+    margin-right: 20px;
+    background: url(../images/index/onhot.png) no-repeat 0 -20px;
+    background-size: 140px;
+}
+.hot-title{
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 5px;
+    width: 440px;
+}
+
+.hot-list li{
+    background: url(../images/index/ic_point.png) no-repeat scroll 0 14px transparent;
+    float: left;
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding-left: 10px;
+    width: 290px;
+}
+
+
+/* 写食派 */
+.writeFoods-list li{
+    width: 180px;
+    height: 266px;
+    float: left;
+    overflow: hidden;  
+}
+.writeFoods-list li:not(:nth-child(3n)){
+    margin-right: 30px;
+}
+.writeFoods-list li img{
+    width: 180px;
+    height: 180px;
+    margin: 0 0 6px 0;
+    display: block;
+}
+.writeFoods-list li .title{
+    width: 180px;
+    padding: 0 0 2px 0;
+    height: 20px;
+}
+.writeFoods-list li .des{
+    width: 180px;
+    padding: 0;
+    display: inline-block;
+    height: 20px;
+}
+.writeFoods-list li .des span{
+    color: #999;
+}
+.writeFoods-list li .like{
+    width: 180px;
+    color: #999;
+    height: 20px;
+}
+
+
+/* 笔记 */
+.note-list{
+    width: 100%;
+}
+.note-list li {
+    width: 600px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+} 
+.note-list li:not(:last-child){
+    border-bottom: 1px solid #e4e4e4;
+}   
+.note-list li > img{
+    width: 100px;
+    height: 100px;
+    margin: 0 10px 0 0;
+    display: block;
+}
+.note-list li .write{     
+    width: 160px;
+    padding: 0 0 5px 0;
+}
+.note-list li .write .describe{
+    height: 25px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+.note-list li .write .number{
+    color: #999;
+}
+.note-list li .describe{
+    font-size: 14px;
+    font-weight: 400;
+    height: 20px;
+}
+.note-list li .exhibition{
+    width: 320px;
+    height: 100px;
+}
+.note-list li .exhibition img{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.note-list li .exhibition img:not(:last-child){
+    margin-right: 10px;
+}
+
+/* 精彩菜单 */
+.wonderfulMenu ul,.activityAndMatch ul,.superman-list{
+    padding: 10px;
+    background: #F4F0EC;
+}
+.wonderfulMenu ul li,.activityAndMatch ul li{
+    height: 40px;
+    line-height: 40px;
+    padding-left: 10px;
+    background: url(../images/index/ic_point.png) no-repeat center left transparent;
+}
+.wonderfulMenu ul li:not(:last-child),.activityAndMatch ul li:not(:last-child),.superman-list li:not(:last-child){
+    border-bottom: 1px dashed #D5D5C4;
+}
+
+/* 豆果达人 */
+.superman{
+    width: 100%;
+}
+.apply{
+    width: 70px;
+    height: 30px;
+    background: #6fbfb1;
+    color: #fff;
+    cursor: pointer;  
+}
+.apply:hover{
+    background: #8cccc1;
+}
+.superman-list li{
+    padding: 15px 0 7px 0;
+}
+.superman-list li>a{
+    margin-right: 15px;
+}
+.superman-list li img{
+    width: 50px;
+    height: 50px;
+}
+.superman-list li .icon{
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-left: 3px;
+    vertical-align: middle;
+    content: "";
+    background: url(../images/common/level_icon.png) no-repeat;
+    background-position: 0 -22px;
+}
+.superman-list li p{
+    margin: 3px;
+    color: #999;
+}
+.superman-list .follow{
+    width: 70px;
+    height: 25px;
+    background: #E9E1DA;
+    color: #6B553F;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 12px;
+}
+.superman-list .follow:hover{
+    background: #F1EDE7;
+}
+
+
+/* 豆果实验室 */
+.laboratory-list li,.comic-list li{
+    line-height: 30px;
+}
+
+/* 动漫 */
+.comicMore{
+    font-size: 16px;
+}
+
+
+/* 客户端下载 */
+
+.clientDownload .tinnyapp{
+    display: block;
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    background: url(../images/common/tinyapp1.png) no-repeat;
+    background-position: 0 -44px;
+    margin-bottom: 10px;
+}
+.clientDownload a{
+    display: block;
+    margin-left: 8px;
+    
+}
+
+
+/* 底部 */
+footer{
+    margin: 0;
+    width: 100%;
+}
+footer .bgc{
+    background-color: #f2f2f2;
+}
+.footer-top{
+    border-bottom: 1px dashed #E5E5E5;
+    padding: 20px 0;
+}
+.footer-top .ficon{
+    color: #999;
+}
+.footer-top .ficon img{
+    display: block;
+}
+.footer-top .websiteIntroduce{
+    margin: 20px 0;
+}
+.footer-top .ficon span{
+    font-family: Georgia,"Times New Roman",Times,serif;
+    font-size: 24px;
+    color: #84b92c;
+}
+.footer-top .fcode ul li{
+    text-align: center;
+}
+.footer-top .fcode ul li:not(:last-child){
+    margin-right: 10px;
+}
+.footer-top .fcode ul li a{
+    display: block;
+    width: 92px;
+    height: 92px;
+    margin-bottom: 8px;
+    background: url(../images/common/erwei.png) no-repeat;
+}
+.footer-top .fcode .weChat-code{
+    background-position: 0 0;
+}
+.footer-top .fcode .deliciousFood-code{
+    background-position: -100px 0;
+}
+.footer-top .fcode .writeFood-code{
+    background-position: -200px 0;
+}
+
+
+.footer-middle h2{
+    font-size: 14px;
+    margin: 15px 0;
+}
+.footer-middle .cooperation{
+    width: 100%;
+}
+.footer-middle .cooperation li{
+    width: 20%;
+    float: left;
+    margin-bottom: 15px;
+}
+.footer-middle .cooperation li .icon{
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    content: "";
+    margin: 0 5px 3px 0;
+    background: url(../images/common/hz_icon.png) no-repeat;
+    vertical-align: middle;
+}
+.footer-middle .cooperation li:nth-child(1) .icon{ background-position: 0 0;}
+.footer-middle .cooperation li:nth-child(2) .icon{ background-position: -54px -144px;}
+.footer-middle .cooperation li:nth-child(3) .icon{ background-position: -81px 0;}
+.footer-middle .cooperation li:nth-child(4) .icon{ background-position: 0 -36px;}
+.footer-middle .cooperation li:nth-child(5) .icon{ background-position: -108px 0;}
+.footer-middle .cooperation li:nth-child(6) .icon{ background-position: -81px -36px;}
+.footer-middle .cooperation li:nth-child(7) .icon{ background-position: -108px -36px;}
+.footer-middle .cooperation li:nth-child(8) .icon{ background-position: 0px -72px;}
+.footer-middle .cooperation li:nth-child(9) .icon{ background-position: -27px -72px;}
+.footer-middle .cooperation li:nth-child(10) .icon{ background-position: -54px -72px;}
+.footer-middle .cooperation li:nth-child(11) .icon{ background-position: -81px -72px;}
+.footer-middle .cooperation li:nth-child(12) .icon{ background-position: -108px -72px;}
+.footer-middle .cooperation li:nth-child(13) .icon{ background-position: 0 -108px;}
+.footer-middle .cooperation li:nth-child(14) .icon{ background-position: -27px -108px;}
+.footer-middle .cooperation li:nth-child(15) .icon{ background-position: -54px -108px;}
+.footer-middle .cooperation li:nth-child(16) .icon{ background-position: -81px -108px;}
+.footer-middle .cooperation li:nth-child(17) .icon{ background-position: -108px -108px;}
+.footer-middle .cooperation li:nth-child(18) .icon{ background-position: 0px -144px;}
+.footer-middle .cooperation li:nth-child(19) .icon{ background-position: -27px -144px;}
+.footer-middle .cooperation li:nth-child(20) .icon{ background: url(../images/common/ic_bdyun.png); background-position: 0 0; }
+.footer-middle .cooperation li:nth-child(21) .icon{ background-position: -81px -144px; }
