@@ -1,0 +1,3728 @@
+[
+    {
+        "id": 1,
+        "name":"太平洋影城(北欧知识城店)",
+        "address":"地址：新都区斑竹园镇中利路169号北欧商业广场4号楼4楼",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-86586269",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"目前免费，详请现场咨询影城"
+            }
+        ],
+        "field":[
+            {   "id": 1,
+                "time":"17:30",
+                "endTime":"19:17",
+                "language":"原版3D",
+                "hallNumber":"1号厅",
+                "price":"32"
+            },
+            {
+                "id": 2,
+                "time":"18:20",
+                "endTime":"20:07",
+                "language":"原版3D",
+                "hallNumber":"4号厅",
+                "price":"39"
+            },
+            {
+                "id": 3,
+                "time":"19:30",
+                "endTime":"21:17",
+                "language":"原版3D",
+                "hallNumber":"3号厅",
+                "price":"39"
+            },
+            {
+                "id": 4,
+                "time":"20:20",
+                "endTime":"22:07",
+                "language":"原版3D",
+                "hallNumber":"4号厅",
+                "price":"39"
+            },
+            {
+                "id": 5,
+                "time":"20:55",
+                "endTime":"22:42",
+                "language":"国语3D",
+                "hallNumber":"6号厅",
+                "price":"39"
+            },
+            {
+                "id": 6,
+                "time":"21:30",
+                "endTime":"23:17",
+                "language":"原版3D",
+                "hallNumber":"1号厅",
+                "price":"39"
+            },
+            {
+                "id": 7,
+                "time":"22:20",
+                "endTime":"00:07",
+                "language":"原版3D",
+                "hallNumber":"4号厅",
+                "price":"32"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "name":"承光国际影城",
+        "address":"地址：双流区临港路二段承光影城",
+        "price":"32",
+        "type":"IMAX厅/杜比全景声厅",
+        "img": "http://p0.meituan.net/mogu/6b672611a200c5c5a4a24120c6f0dc77832306.png@292w_292h_1e_1c",
+        "tel": "028-85758696",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "name":"联娱国际影城(兰天店)",
+        "address":"地址：金堂县赵镇新建路133号兰天城市广场5号楼四楼",
+        "price":"36.5",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "name":"万达影城(双流万达广场店)",
+        "address":"地址：双流区星空路二段万达广场四楼",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":5,
+        "name":"太平洋影城(羊安店)",
+        "address":"地址：邛崃市永康大道33号",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":6,
+        "name":"太平洋影城(羊安店)",
+        "address":"地址：邛崃市永康大道33号",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":7,
+        "name":"太平洋影城(新津店)",
+        "address":"地址：新津县迎宾大道74号（原艺术中心）",
+        "price":"32",
+        "type":"IMAX厅/杜比全景声厅/Dolby Cinema厅/4DX厅/DTS:X 临境音厅/CGS中国巨幕厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":8,
+        "name":"CGV影城(科华店)",
+        "address":"地址：武侯区长荣路66号泛悦国际购物中心4楼",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":9,
+        "name":"天智创客影城(成都大学店)",
+        "address":"地址：龙泉驿区十陵镇成都大学第六教学楼",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":10,
+        "name":"太平洋影城(时代豪廷店)",
+        "address":"地址：郫都区望丛中路1092号时代豪廷广场3楼、4楼",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":11,
+        "name":"CGV影城(卓锦店)",
+        "address":"地址：锦江区枫树街2号卓锦曼购中心3楼",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":12,
+        "name":"太平洋影城(安仁戏院)",
+        "address":"地址：大邑县安仁镇裕民街仁和街交叉口南100米路东（原星廷戏院）",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":13,
+        "name":"希望电影城",
+        "address":"地址：都江堰市建设路天和盛世4栋3楼（近沃尔玛超市）",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":14,
+        "name":"CGV影城(金楠IMAX店)",
+        "address":"地址：武侯区晋吉西一街66号龙湖金楠天街购物中心5楼",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":15,
+        "name":"UME影城(大邑店)",
+        "address":"地址：大邑县圣桦城商业街B8栋",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":16,
+        "name":"中影ul城市影院",
+        "address":"地址：成华区洪山路28号1栋1单元401—408号",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":17,
+        "name":"UME影城(郫都店)",
+        "address":"地址：郫都区郫花路299号花样世界.奥特莱斯生活中心4栋5层1号",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":18,
+        "name":"耀莱成龙国际影城(总府店)",
+        "address":"地址：青羊区提督街1号雄飞中心8楼（乘坐印象通讯手机店旁观光梯至8楼）",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":19,
+        "name":"万达影城(崇州唐人街店)",
+        "address":"地址：崇州市崇阳街道唐安东路368号",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":20,
+        "name":"万达影城(金沙广场店)",
+        "address":"地址：青羊区青羊大道清江中路59号文化宫3楼（近青羊大道）",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":21,
+        "name":"星美国际影商城(成都温江店)",
+        "address":"地址：温江区国色天乡摩天轮商业街12栋购物中心三楼（永辉超市楼上）",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":22,
+        "name":"CGV影城(航空港店)",
+        "address":"地址：双流区大件路白家段280号韩国城购物中心3层（近空港国际城）",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":23,
+        "name":"中影飞尚国际影城",
+        "address":"地址：新都区电子路海伦城市广场4楼",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":24,
+        "name":"太平洋影城(金色海蓉店)",
+        "address":"地址：武侯区高阳路38号附501号万科金色海蓉2期汇智中心5层（近火车南站）",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":25,
+        "name":"横店电影城(百伦广场店)",
+        "address":"地址：都江堰市都江堰大道211号百伦广场7楼",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":26,
+        "name":"万达影城(金牛万达广场店)",
+        "address":"地址：金牛区人民北路与一环路交汇处金牛万达广场4楼",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":27,
+        "name":"恒大影城(金堂店)",
+        "address":"地址：金堂县金凤路555号恒大影城三层",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":28,
+        "name":"旭和影城(双流店)",
+        "address":"地址：双流区航鹰东路6号润驰国际广场（近城北市场，6路公交直达）",
+        "price":"32",
+        "type":"IMAX厅/巨幕厅/RealD 6FL厅/LUXE巨幕厅/DTS:X 临境音厅/4DX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":29,
+        "name":"百丽宫影城(太古里店)",
+        "address":"地址：锦江区中纱帽街8号成都远洋太古里东里B1层M048",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":30,
+        "name":"邛崃星河影城(海宁现代城店)",
+        "address":"地址：邛崃市棉花街海宁现代城B座3楼",
+        "price":"32",
+        "type":"IMAX厅/巨幕厅/RealD 6FL厅/LUXE巨幕厅/DTS:X 临境音厅/4DX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":31,
+        "name":"金逸影城(成都美逸影院)",
+        "address":"地址：新都区兴乐北路88号缤纷广场三楼",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":32,
+        "name":"华联影城(双流店)",
+        "address":"地址：双流区西航港街道锦华路二段166号北京华联空港店五层",
+        "price":"32",
+        "type":"IMAX厅/巨幕厅/RealD 6FL厅/LUXE巨幕厅/DTS:X 临境音厅/4DX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":33,
+        "name":"欢乐小马影城",
+        "address":"地址：温江区光华大道1868号德坤新天地2号楼4楼",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":34,
+        "name":"太平洋影城(王府井店)",
+        "address":"地址：锦江区总府路15号（近春熙路）",
+        "price":"32",
+        "type":"IMAX厅/巨幕厅/RealD 6FL厅/LUXE巨幕厅/DTS:X 临境音厅/4DX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":35,
+        "name":"星美国际影商城(成都新津店)",
+        "address":"地址：新津县天祥巷1号（钟楼背后）",
+        "price":"32",
+        "type":"IMAX厅/巨幕厅/RealD 6FL厅/LUXE巨幕厅/DTS:X 临境音厅/4DX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":36,
+        "name":"339影城",
+        "address":"地址：成华区猛追湾街94号华润欢乐颂3楼，339电视塔下，府南河旁（原新时代影城高塔店）",
+        "price":"32",
+        "type":"IMAX厅/CGS中国巨幕厅/4K厅/RealD厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":37,
+        "name":"影立方773IMAX影城(东郊记忆店)",
+        "address":"地址：成华区建设南支路4号东郊记忆（原东区音乐公园内）",
+        "price":"32",
+        "type":"IMAX厅/CGS中国巨幕厅/4K厅/RealD厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":38,
+        "name":"星美国际影商城(成都蒲江店)",
+        "address":"地址：蒲江县清江大道28号星光天地3-5F",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":39,
+        "name":"横店电影城(苏宁店)",
+        "address":"地址：武侯区天府大道北段8号苏宁广场6楼（近宜家、欧尚）",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":40,
+        "name":"橙天嘉禾影城(成都凯德新南店)",
+        "address":"地址：武侯区盛和一路99号凯德广场4楼（近宜家家居）",
+        "price":"32",
+        "type":"IMAX厅/CGS中国巨幕厅/4K厅/RealD厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":41,
+        "name":"保利万和国际影城(世纪百合店)",
+        "address":"地址：武侯区武侯大道铁佛段317号世纪百合商业广场（欧尚）4楼",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":41,
+        "name":"太平洋影城(春熙店)",
+        "address":"地址：锦江区青年路暑袜南街27号",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":42,
+        "name":"星轶D-BOX影城(龙泉驿吾悦广场旗舰店)",
+        "address":"地址：龙泉驿区龙泉桃都大道中段888号成都吾悦广场3层",
+        "price":"32",
+        "type":"IMAX厅/CGS中国巨幕厅/4K厅/RealD厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":43,
+        "name":"雅图影院(光华店)",
+        "address":"地址：青羊区光华村街42号负一楼（乐宾百货一楼）",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":44,
+        "name":"世纪东方影城",
+        "address":"地址：简阳市简城镇西街62号（东海大酒店内）",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":45,
+        "name":"和贵·紫荆电影城(和贵店)",
+        "address":"地址：双流区西航港临港路4段9号3楼",
+        "price":"32",
+        "type":"IMAX厅/CGS中国巨幕厅/4K厅/RealD厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":46,
+        "name":"嘉美影城",
+        "address":"地址：新都区新繁镇繁江大道吉选购物中心4楼",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":47,
+        "name":"泽海影城",
+        "address":"地址：温江区文庙街1号楼3楼",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":48,
+        "name":"太平洋影城(双流机场店)",
+        "address":"地址：双流区双流机场t2航站楼9号门对面4楼",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":49,
+        "name":"星美影商城(大悦城IMAX店)",
+        "address":"地址：武侯区大悦路518号大悦城4楼",
+        "price":"32",
+        "type":"IMAX厅/CGS中国巨幕厅/4K厅/RealD厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    },
+    {
+        "id":50,
+        "name":"峨眉影城(龙泉香榭影都店)",
+        "address":"地址：龙泉驿区龙平路383号",
+        "price":"32",
+        "type":"IMAX厅",
+        "img": "http://p1.meituan.net/deal/201208/22/1_0822151022.jpg@292w_292h_1e_1c",
+        "tel": "028-84997123",
+        "service":[
+            {
+                "term": "3D眼睛",
+                "des":"免押金"
+            },
+            {
+                "term": "可停车",
+                "des":"有地面和地下停车场"
+            },
+            {
+                "term": "儿童优惠",
+                "des":"1.3米以下儿童免费观影，一名成人限带一名儿童"
+            }
+        ],
+        "field":[
+            {
+                "id": 1,
+                "time":"17:40",
+                "endTime":"19:27",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 2,
+                "time":"18:55",
+                "endTime":"20:42",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 3,
+                "time":"20:05",
+                "endTime":"21:52",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 4,
+                "time":"21:20",
+                "endTime":"23:07",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 5,
+                "time":"22:30",
+                "endTime":"00:17",
+                "language":"英语3D",
+                "hallNumber":"5号激光厅",
+                "price":"33"
+            },
+            {
+                "id": 6,
+                "time":"23:30",
+                "endTime":"01:17",
+                "language":"英语3D",
+                "hallNumber":"4号激光厅",
+                "price":"33"
+            }
+        ]
+    }
+]
