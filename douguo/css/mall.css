@@ -1,0 +1,44 @@
+@charset 'utf-8'; 
+/* 商城精选 */
+.goods-list li{
+    float: left;
+    margin-bottom: 16px;
+}
+.goods-list li:not(:nth-child(4n)){
+    margin-right: 14px;
+}
+.goods-list li img{
+    width: 224px;
+}
+.goods-list li p{
+    width: 224px;
+    margin: 5px 0;
+}
+.goods-list li p.describe{
+    font-size: 14px;
+    color: #12937C;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    
+}
+p.price .curPrice{
+    font-size: 16px;
+    color: #eb2624;
+}
+p.price .oldPrice{
+    font-size: 12px;
+    color: #999;
+    padding-left: 18px;
+    text-decoration: line-through;
+}
+p.others{
+    color: #999;
+    
+}
+p.others .sales{
+    padding-left: 5px;
+}
+p.others .sendPrice{
+    padding-right: 5px;
+}
