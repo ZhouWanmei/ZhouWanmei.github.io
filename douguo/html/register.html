@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>注册 - 豆果美食</title>
+    <link rel="icon" href="../images/common/favicon.ico">
+    <link rel="stylesheet" href="../plugin/LHYAlertView.css">
+    <link rel="stylesheet" href="../css/normalized.css">
+    <link rel="stylesheet" href="../css/register.css">
+    <link rel="stylesheet" href="../css/login-register.css">
+</head> 
+<body>
+    <header>
+        <div class="wrapper">
+            <a href="../index.html"></a>
+        </div>
+    </header>
+    <main clas="content">
+        <div class="wrapper">
+            <form class="Form" action="javascript:;">
+                <section class="form-title">
+                    <h2 class="fl">新用户注册</h2>
+                    <span class="fr">已有账号,<a href="../html/login.html">直接登录></a></span>
+                </section>
+                
+                <section class="form-item display" data-msg="输入账号便于登录和找回密码，如1001">
+                    <input id="userid" type="text" placeholder="请输入账号" AUTOCOMPLETE="OFF">
+                    <section class="tips" data-msg="请输入账号">
+                    </section>
+                </section>
+                
+                <section class="form-item" data-msg="密码长度为6-20位，不能含有空格">
+                    <input id="firPassword" type="password" placeholder="请输入密码">
+                    <section class="tips" data-msg="密码为6到20位字符组合">  
+                    </section>
+                </section>
+                
+                <section class="form-item" data-msg="再输入一次密码">
+                    <input id="secPassword" type="password" placeholder="请再次输入密码">
+                    <section class="tips" data-msg="两次密码输入不一致">  
+                    </section> 
+                </section>
+                
+                <section class="form-item verification-code-box" data-msg="请输入验证码">
+                    <input class="no" id="verificationCode" type="password" placeholder="请输入验证码">
+                    <span class="verification-code"></span>
+                    <section class="tips" data-msg="验证码错误">    
+                    </section>
+                </section>
+                
+                <section class="protocol">
+                        <input id="ptotocol" class="no" type="checkbox" checked>我已阅读并同意
+                        <a href="#">豆果美食使用协议</a>
+                </section>
+                <button type="submit" class="btn registerBtn">注册</button>
+            </form>
+        </div>
+    </main>
+    <footer>
+        <ul  class="footer-bottom">
+            <li><a href="../index.html">返回首页</a></li>
+            <li><a href="./menu.html">菜谱大全</a></li>
+            <li><a href="./mall.html">商城</a></li>
+            <li><a href="./diet.html">写食派</a></li>
+            <li><a href="./cartoon.html">动漫</a></li>
+            <li><a href="#">关于豆果</a></li>
+        </ul>
+        <span class="copyright">&copy;2009-2015 北京豆果信息技术有限公司 京ICP证111032号 京公网安备11010102001133号 京网文[2014]0774-174号</span>
+    </footer>
+
+    <script src="../plugin/LHYAlertView.js"></script>
+    <script src="../js/functions.js"></script>
+    <script src="../js/register.js"></script>
+</body>
+</html>
+
+
+
+
+
+    
