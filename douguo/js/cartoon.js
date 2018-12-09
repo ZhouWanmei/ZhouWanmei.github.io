@@ -10,7 +10,7 @@
 
     var cartoonsList = getEl('.cartoons-list');
     $.ajax({
-        url:"../json/cartoon.json",
+        url:"/douguo/json/cartoon.json",
         success: function(recommend) {
             var htmlStr = "";
             recommend.forEach(function(obj, index){

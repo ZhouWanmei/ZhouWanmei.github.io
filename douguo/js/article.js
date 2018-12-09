@@ -21,7 +21,7 @@
      var datas        = null;
  
      //数据请求
-     GET("../json/article.json",function(response){
+     GET("/douguo/json/article.json",function(response){
          //加载数据
          datas = response;
          loadingArticles(articlesList,datas,1,cur);

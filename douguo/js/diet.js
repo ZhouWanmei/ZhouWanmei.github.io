@@ -13,7 +13,7 @@
     //加载数据 
     var dietList = getEl('.diet-list');
     $.ajax({
-        url:"../json/writeFoods.json",
+        url:"/douguo/json/writeFoods.json",
         success:function(list){
             var htmlStr="";
             list.forEach(function(obj,index){

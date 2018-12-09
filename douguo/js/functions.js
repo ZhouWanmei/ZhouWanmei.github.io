@@ -59,7 +59,6 @@ function userState(){
     }else{
         _flag = false;      
     }
-    console.log(_flag);
     var loginBox   = getEl('.login-box');
     var loginedBox = getEl('.logined-box');
     
@@ -186,7 +185,7 @@ function searchResult(keywords){
     var searchResultList = getEl('.searchResult-list'),
         datas = null;
     $.ajax({
-        url:"../json/shoppingMall.json",
+        url:"/douguo/json/shoppingMall.json",
         success: function(recommend) {
             datas = recommend;
             //处理搜索数据
@@ -424,7 +423,7 @@ function advertisement(){
 function loadingEverydayRecommendData(){
     var reList = getEl('.recommend-list');
     $.ajax({
-        url:"../json/everydayRecommend.json",
+        url:"/douguo/json/everydayRecommend.json",
         success: function(recommend) {
             var htmlStr = "";
             recommend.forEach(function(obj, index){
@@ -452,16 +451,6 @@ function loadingEverydayRecommendData(){
                   
             });
             reList.innerHTML = htmlStr;
-            // var firVedioIcon = getEl('.vedioIcon');
-            // var video        = getEl('.video');
-            // var closeBtn     = getEl('.close');
-            
-            // firVedioIcon.onclick = function(){
-            //     video.style.display = "block";
-            // }
-            // closeBtn.onclick = function(){
-            //     video.style.display = "none";
-            // }
             
         }
     })
@@ -471,7 +460,7 @@ function loadingEverydayRecommendData(){
 function loadingShoppingMallData(){
     var goodsList = getEl('.goods-list');
     $.ajax({
-        url:"../json/shoppingMall.json",
+        url:"/douguo/json/shoppingMall.json",
         success: function(recommend) {
             var htmlStr = "";
             recommend.forEach(function(obj, index){
@@ -515,7 +504,7 @@ function loadingShoppingMallData(){
 function loadingSeasonableFoodData(){
     var foodsList = getEl('.foods-list');
     $.ajax({
-        url:"../json/seasonableFood.json",
+        url:"/douguo/json/seasonableFood.json",
         success: function(foods) {
             var htmlStr = "";
             foods.forEach(function(obj, index){
@@ -536,7 +525,7 @@ function loadingSeasonableFoodData(){
 function loadingWriteFoodsData(){
     var writeFoodsList = getEl('.writeFoods-list');
     $.ajax({
-        url:"./json/writeFoods.json",
+        url:"/douguo/json/writeFoods.json",
         success:function(list){
             var htmlStr="";
             list.forEach(function(obj,index){
@@ -563,7 +552,7 @@ function loadingWriteFoodsData(){
 function loadingNoteData(){
     var noteList = getEl('.note-list');
     $.ajax({
-        url:"./json/note.json",
+        url:"/douguo/json/note.json",
         success:function(list){
             var htmlStr="";
             list.forEach(function(obj){
@@ -592,7 +581,7 @@ function loadingNoteData(){
 function loadingSupermanData(){
     var supermanList = getEl('.superman-list');
     $.ajax({
-        url:"./json/superman.json",
+        url:"/douguo/json/superman.json",
         success:function(menus){
             var htmlStr="";
             menus.forEach(function(obj){

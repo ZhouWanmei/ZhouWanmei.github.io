@@ -15,7 +15,7 @@
 
     var menuList = getEl('.menu-list');
     $.ajax({
-        url:"../json/menu.json",
+        url:"/douguo/json/menu.json",
         success:function(menus){
             var htmlStr = "";
             menus.forEach(function(obj){

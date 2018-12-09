@@ -11,7 +11,7 @@
 
     var lists = getEl('.list');
     $.ajax({
-        url: "../json/shoppingMall.json",
+        url: "/douguo/json/shoppingMall.json",
         success:function(goodss){
             var htmlStr = ``;
             goodss.forEach(function(goods,index){

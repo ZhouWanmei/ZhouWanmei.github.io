@@ -13,7 +13,7 @@
 
     var goodsList = getEl('.goods-list');
     $.ajax({
-        url:"../json/shoppingMall.json",
+        url:"/douguo/json/shoppingMall.json",
         success: function(recommend) {
             var htmlStr = "";
             recommend.forEach(function(obj, index){

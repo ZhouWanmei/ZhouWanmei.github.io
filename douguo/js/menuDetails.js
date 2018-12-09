@@ -5,7 +5,7 @@
 
     var menuDetail = getEl('.menuDetail');
     $.ajax({
-        url:"../json/menu.json",
+        url:"/douguo/json/menu.json",
         success:function(menus,index){
             var htmlStr = "";
             menus.forEach(function(menu,index){
