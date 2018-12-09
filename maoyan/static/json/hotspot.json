@@ -1,0 +1,104 @@
+{
+    "newsInformation":[
+        {
+            "img": "http://p1.meituan.net/movie/807372d28d258db85dc36077672c79c878030.jpg@230w_129h_1e_1c",
+            "title": "马蓉喊话王宝强引发骂战，她生气回怼你们不配，网友：说不过她",
+            "num": 47
+        },
+        {
+            "img": "http://p0.meituan.net/movie/463438e386ed680c3c33f5dc14264c74240303.png@230w_129h_1e_1c",
+            "title": "央视主持人王小丫2次婚姻，50岁仍没孩子，近照发福严重身材走样",
+            "num": 42        
+        },
+        {
+            "img": "http://p0.meituan.net/movie/d75dd83e1e3d849515fd31de7ba14a942159283.jpg@230w_129h_1e_1c",
+            "title": "德普前妻出席活动，白流苏抹胸长裙外面披西装，网友：最完美脸蛋",
+            "num": 36        
+        },
+        {
+            "img": "http://p0.meituan.net/movie/5713bf75fab56ff8017545fe7b31e48688446.png@230w_129h_1e_1c",
+            "title": "马蓉发博称王宝强炒作、装疯卖傻，称今晚八点见",
+            "num":  49       
+        },
+        {
+            "img": "http://p1.meituan.net/movie/3885a8a7e9abc7676763991ad6003d6b285603.png@230w_129h_1e_1c",
+            "title": "汤老师年轻时颜值逆天苏到爆肝！这还是《毒液》里的油头倒霉鬼吗",
+            "num": 2803        
+        },
+        {
+            "img": "http://p0.meituan.net/movie/44d08d091982b54a8bf738775dafa816115182.jpg@230w_129h_1e_1c",
+            "title": "蓝洁瑛出殡火化，仪式简单低调仅5分钟",
+            "num": 63         
+        }
+    ],
+    "prevue": [
+        {
+            "img": "http://p1.meituan.net/movie/347cb8921a8ed68de4d56bb52e82dc7e18494.jpg@480w_270h_1e_1c",
+            "title": "《记忆折叠》《记忆折叠》60秒预告片",
+            "num": 46
+        },
+        {
+            "img": "http://p0.meituan.net/movie/4d465f5138244a1f52d215e486260f6431603.jpg@138w_78h_1e_1c",
+            "title": "《冒牌搭档》花季少女片场偶遇“死尸老爸”",
+            "num": 35
+        },
+        {
+            "img": "http://p0.meituan.net/movie/8350ec8589aeeb7480e9654de95504ce45371.jpg@138w_78h_1e_1c",
+            "title": "《请你记住我》《请你记住我》——“春天里”版先导预告",
+            "num": 251
+        },
+        {
+            "img": "http://p0.meituan.net/movie/187fe00ff8cfa04f2fc11835f5d4fe6e21920.jpg@230w_125h_1e_1c",
+            "title": "《憨豆特工3》“信任危机”片段",
+            "num": 2431
+        },
+        {
+            "img": "http://p1.meituan.net/movie/2c9767450197970becac414527db744313283.jpg@230w_125h_1e_1c",
+            "title": "《克隆人》曝重生版预告  基努·里维斯再造科幻高峰",
+            "num": 1305
+        },
+        {
+            "img": "http://p0.meituan.net/movie/41f9ac93151dca860bbb10001d4f392225548.jpg@230w_125h_1e_1c",
+            "title": "《无敌破坏王2：大闹互联网》幕后主创讲述刺激网络大冒险",
+            "num": 176
+        }
+    ],
+    "newsAtlas": [
+        {
+            "imgs":[
+                "http://p1.meituan.net/movie/fdc4e695d8f858ca40c6a9b2140b6945795774.jpg@230w_172h_1e_1c",
+                "http://p1.meituan.net/movie/3613fbb916bff52e1df8c037460bc50e936134.jpg@120w_84h_1e_1c",
+                "http://p0.meituan.net/movie/ab4ad88e909d1c891c0c9c0ea95bb24a963670.jpg@160w_160h_1e_1c"
+            ],
+            "title": "井柏然封面大片曝光，全新造型大胆突破炫酷十足",
+            "num": 1763
+        },
+        {
+            "imgs":[
+                "http://p0.meituan.net/movie/dd8ff72b0712327c8bf6b38dd47d7518935696.jpg@230w_172h_1e_1c",
+                "http://p0.meituan.net/movie/f0479e62a5ba76ff915ea9fb3df82a871434243.jpg@120w_84h_1e_1c",
+                "http://p0.meituan.net/movie/e4b6908b5c270f7b76552aacafa5dc951011158.jpg@160w_160h_1e_1c"
+            ],
+            "title": "刘昊然全新《智族GQ》封面大片，时尚成绩亮眼迈向成熟",
+            "num": 1538
+        },
+        {
+            "imgs":[
+                "http://p1.meituan.net/movie/a904b5f036ce7633dcb40e76fdef92d6159001.jpg@230w_172h_1e_1c",
+                "http://p0.meituan.net/movie/057d2d9c960c9c5bbcc53af6d81e745372816.jpg@120w_84h_1e_1c",
+                "http://p0.meituan.net/movie/ffd861922d689f500e70925b41a7339f245468.jpg@160w_160h_1e_1c"
+            ],
+            "title": "马天宇《时尚先生》封面大片来袭，巴黎街头尽展儒雅绅士范儿",
+            "num": 1180
+        },
+        {
+            "imgs":[
+                "http://p0.meituan.net/movie/1b5129845f5b1bd6857e20ebb926e71f1068131.jpg@230w_172h_1e_1c",
+                "http://p0.meituan.net/movie/2d8d2bb176e793f0e5c5710bc5fbf003929127.jpg@120w_84h_1e_1c",
+                "http://p1.meituan.net/movie/4b498e2ea5584fea9e3d816dc62bbea31844041.jpg@160w_160h_1e_1c"
+            ],
+            "title": "巩俐金九封面诠释时间隽永，与冯海再塑经典",
+            "num": 4719
+        }
+    ]
+}
