@@ -1,0 +1,114 @@
+@charset 'utf-8'; 
+/** 内容 **/
+/* 食物信息 */
+.foodInfos{
+    width: 100%;
+    margin-bottom: 30px;
+}
+.foodInfos>img{
+    width: 440px;
+    margin-right: 30px;
+    
+} 
+.foodInfos .infos{
+    width: 50%;
+}
+.infos .title{
+    width: 100%;
+    font-size: 24px;
+    font-weight: normal;
+}
+.infos .others{
+    margin: 10px 0;
+}
+.infos .others strong{
+    color: #f46c31;
+    font-size: 24px;
+    padding-right: 3px;
+}
+.foodInfos .authorInfos{
+    height: 150px;
+    background: #fff;
+    border: 1px solid #E9E9E8;
+    box-shadow: 0 1px 3px rgba(100,100,100,.3);
+    padding: 20px 20px 0 20px;
+}
+.authorInfos .author{
+    font-size: 14px;
+}
+.authorInfos .author img{
+    width: 36px;
+    height: 36px;
+    margin: 0 15px 15px 0;
+}
+.authorInfos .des{
+    font-size: 14px;
+    line-height: 20px;
+    text-indent: 2em;
+}
+
+/* 制作步骤 */
+.making{
+    width: 100%;
+    margin-bottom: 30px;
+}
+.s-title,.m-title{
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+.making .step{
+    width: 600px;  
+}
+.making .material{
+    width: 300px;
+}
+.making .steps{
+    width: 100%;
+    font-size: 14px;    
+    background: #fff;
+    
+}
+
+.making .steps li{
+    border-bottom: 1px solid #e5e5e5;
+    margin: 30px 0;
+    padding: 20px;   
+}
+
+
+.making .steps li img{
+    float: left;
+    margin-right: 20px;
+    width: 100px;
+}
+.making .steps li span{
+    display: inline-block;
+    width: 440px;
+    text-indent: 2em;
+    
+}
+
+.making .materials{
+    box-shadow: 0 1px 3px rgba(100,100,100,.3);
+}
+.making .materials li{
+    width: calc(100%-40px);
+    height: 40px;
+    line-height: 40px;
+    padding: 0 20px;
+}
+.making .materials li{
+    border: 1px solid #e5e5e5;
+}
+.making .materials li:not(:last-child){
+    border-bottom: none;
+}
+.making .materials li .m-quantity{
+    font-size: 12px;
+    color: #999;
+}
+
+
+
+

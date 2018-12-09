@@ -1,0 +1,96 @@
+@charset 'utf-8'; 
+.cartoons-list{
+    float: left; 
+}
+.cartoons-list li{
+    width: 290px;
+    height: 220px;
+    padding: 8px;
+    float: left;
+    margin-bottom: 20px;
+    box-shadow: 0 0 2px #ccc;
+    background-color: #fff;
+    overflow: hidden;
+    position: relative;
+}
+.cartoons-list li:not(:nth-child(3n)){
+    margin-right: 10px;
+}
+.cartoons-list li a{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.cartoons-list li a .img-box{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.cartoons-list li a p.title{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #12937C;
+    opacity: 0;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%);
+    transition: all 0.3s 0.6s linear;
+    z-index: 99;
+}
+.cartoons-list li a img{
+    width: 100%;
+}
+
+/* 遮罩 */
+.item{
+    width: 145px;
+    height: 110px;
+    content: "";
+    background: #000;
+    opacity: 0.2;
+    border-radius: 50%;
+    position: absolute;
+    transition: all 0.6s linear;
+}
+.leftTop{
+    top: -110px;
+    left: -145px;
+}
+.rightTop{
+    top: -110px;
+    right: -145px;
+}
+.rightBottom{
+    bottom: -110px;
+    right: -145px;
+}
+.leftBottom{
+    bottom: -110px;
+    left: -145px;
+}
+.cartoons-list li a:hover p.title{
+    opacity: 1;
+}
+.cartoons-list li a:hover .item{
+    width: 306px;
+    height: 236px; 
+    border-radius: 0;  
+}
+.cartoons-list li a:hover .leftTop{
+    top: 0;
+    left: 0;   
+}
+.cartoons-list li a:hover .rightTop{
+    top: 0;
+    right: 0;   
+}
+.cartoons-list li a:hover .rightBottom{
+    bottom: 0;
+    right: 0;   
+}
+.cartoons-list li a:hover .leftBottom{
+    bottom: 0;
+    left: 0;   
+}
