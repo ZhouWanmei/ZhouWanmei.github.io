@@ -1,0 +1,52 @@
+@charset 'utf-8';
+body {
+    width: 100%;
+    height: 100%;
+}
+.my-form {
+    width: 300px;
+    position: relative;
+    left: 0;top: 0;right: 0;bottom: 0;
+    margin: auto;
+}
+/* 搜索框 */
+.my-form > input{
+    width: 100%; 
+    height: 40px;
+    outline: none;
+    padding: 0;
+    border: 1px solid #999;
+    border-radius: 15px;
+    box-sizing: border-box;
+    padding-left: 8px;
+}
+
+
+/* 国家列表 */
+.result-list {
+    width: 100%;
+    height: 300px;
+    overflow-y: scroll;
+    list-style: none;
+    margin: 0;
+    padding-left: 8px;
+    box-sizing: border-box;
+    border: 1px solid #999;
+    border-radius: 5px;
+    position: absolute;
+    top: 45px;
+    left: 0;
+}
+/*设置滚动条*/
+.result-list::-webkit-scrollbar {
+    width: 5px;
+}
+/*设置滚动条拇指元素*/
+.result-list::-webkit-scrollbar-thumb:vertical {
+    border-radius: 15px;
+    background: #d3d3d3;
+}
+
+.result-list > li {
+    line-height: 25px;
+}
