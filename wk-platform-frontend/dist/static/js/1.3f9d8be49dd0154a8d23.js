@@ -1,0 +1,2 @@
+webpackJsonp([1],{CB49:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n    角色管理\n")])},staticRenderFns:[]};var r=t("VU/8")({name:"RoleManage",data:function(){return{}}},a,!1,function(e){t("ObeP")},"data-v-4f423906",null);n.default=r.exports},ObeP:function(e,n){}});
+//# sourceMappingURL=1.3f9d8be49dd0154a8d23.js.map

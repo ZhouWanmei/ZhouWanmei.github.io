@@ -1,2 +1,0 @@
-webpackJsonp([3],{SXdn:function(e,n){},bqOp:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n    注册\n")])},staticRenderFns:[]};var a=t("VU/8")({name:"Register",data:function(){return{}}},r,!1,function(e){t("SXdn")},"data-v-0d67a934",null);n.default=a.exports}});
-//# sourceMappingURL=3.66032c63e887f13c557c.js.map
