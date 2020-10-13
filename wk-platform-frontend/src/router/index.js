@@ -10,12 +10,12 @@ export default new Router({
     {
       path: "/",
       name: "Login",
-      component: () => import("@/views/login/index"),
+      component: () => import("@/views/login"),
     },
     {
       path: "/register",
       name: "Register",
-      component: () => import("@/views/register/index"),
+      component: () => import("@/views/register"),
     },
     {
       path: "/roleManage",
