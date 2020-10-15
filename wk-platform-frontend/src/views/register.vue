@@ -42,7 +42,7 @@
     </template>
 
 <script>
-    import { GVerify } from '../../static/js/verifyCode';
+    import { GVerify } from '../utils/verifyCode';
     export default {
         name: "Register",
         data() {
